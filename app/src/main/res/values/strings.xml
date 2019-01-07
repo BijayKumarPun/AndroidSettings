@@ -3,7 +3,9 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string-array name="list_entries_names" >
+
+
+    <string-array name="list_entries_names">
         <item>Entry item 1</item>
         <item>Entry item 2</item>
         <item>Entry item 3</item>
